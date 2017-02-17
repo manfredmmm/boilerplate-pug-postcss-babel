@@ -1,0 +1,10 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "comma-dangle": "off",
+    "no-underscore-dangle": "off"
+  },
+  "globals": {
+    "document": false
+  }
+}
