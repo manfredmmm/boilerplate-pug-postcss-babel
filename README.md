@@ -4,7 +4,7 @@
   * SASS
   * Babel ES6
 
-Custom boilerplate for creating static webpages
+Custom boilerplate to create static webpages
 
 Usage:
   * `yarn`
