@@ -1,5 +1,5 @@
 // Stylesheets
-import './styles/application.sass';
+import './styles/application.css';
 
 // Images
 import './images/fyeah.jpg';

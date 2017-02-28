@@ -1,0 +1,11 @@
+/* Stylesheets */
+@import 'utilities/normalize';
+@import 'utilities/typographies';
+
+html {
+  font-family: var(--openSans);
+}
+
+.background-image {
+  background-image: url('/images/fyeah.jpg');
+}
